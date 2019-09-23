@@ -2,7 +2,7 @@
 
 ![](https://github.com/creativeCodingART2210Fall2019Section2/Denham_Brady_ART2210/blob/master/Brady_Denham_Project_1/Stained_Glass.jpg)
 
-[Project 1 Link](https://bdenha3.github.io/Denham_Brady_ART2210/Brady_Denham_Project_1/SelfPortrait.html)
+[Project 1 Link](https://github.com/creativeCodingART2210Fall2019Section2/Denham_Brady_ART2210/blob/master/Brady_Denham_Project_1/SelfPortrait.html)
 
 
 	This piece was made following the style if stained glass windows that would most commonly be found in churches or in gothic architecture.
