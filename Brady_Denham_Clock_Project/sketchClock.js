@@ -5,6 +5,7 @@ function setup(){
     createCanvas(windowWidth,windowHeight);
     angleMode(DEGREES);
     textSize(width / 25);
+    textAlign(CENTER,CENTER);
 
 }
 
@@ -126,7 +127,7 @@ function draw(){
     stroke(225);
         push();
         rotate(90);
-        text(h + ":" + m, -38, 15,);
+        text(h + ":" + m, 0, 0);
         pop();
     rotate(secondAngle*2);
     quad(90,30,150,15,150,-15,90,-30);
