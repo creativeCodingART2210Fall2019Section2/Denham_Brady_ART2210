@@ -1,12 +1,3 @@
 ## Denham_Brady_ART2210
 
-Here is a Sample.
-Here's another.
-
-![](https://github.com/bdenha3/Denham_Brady_ART2210/blob/master/img/GAMMOTH-ICON-STICKER.jpg)
-
-Darft setting left
-Center: <div align=center>
-Left: <div align=left>
-
-this is a README example
+[Gear Clock](https://github.com/bdenha3/Denham_Brady_ART2210/tree/master/Brady_Denham_Clock_Project);
