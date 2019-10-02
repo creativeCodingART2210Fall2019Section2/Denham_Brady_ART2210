@@ -1,3 +1,3 @@
 ## Denham_Brady_ART2210
 
-[Gear Clock](https://github.com/bdenha3/Denham_Brady_ART2210/tree/master/Brady_Denham_Clock_Project/Denham_Clock.html)
+[Gear Clock](https://bdenha3.github.io/Denham_Brady_ART2210/Denham_Brady_ART2210/Brady_Denham_Clock_Project/Denham_Clock.html)
