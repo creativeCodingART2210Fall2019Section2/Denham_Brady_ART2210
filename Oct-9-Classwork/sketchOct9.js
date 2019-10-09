@@ -36,7 +36,7 @@ class Bubble{
 
     display(){
         ellipse(this.x, this.y, this.diameter, this.diameter);
-        //fill(random(0,225),random(0,225),random(0,225));
+        //fill(random(0,225),random(0,225),random(0,225)); //Epilepsy Warning
     }
 }
 
