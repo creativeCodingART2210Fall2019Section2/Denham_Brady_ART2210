@@ -1,0 +1,18 @@
+{
+    "flowerset":[
+
+    {
+        "name": "sunflower",
+        "red": 200,
+        "green": 220,
+        "blue": 0
+    }
+
+    {
+        "name": "lily",
+        "red": 220,
+        "green": 200,
+        "blue": 1
+    }
+  ]
+}
