@@ -17,7 +17,7 @@ function setup(){
     createCanvas(windowWidth,windowHeight);
 
     setInterval(askISS, 1000);
-    ellipseMode(CENTER);
+    
 }
 
 function askISS(){
@@ -28,8 +28,8 @@ function askISS(){
 function gotData(data){
     lat = data.iss_position.latitude;
     long = data.iss_position.longitude;
-    issX = map(lat, -90, 90, 0, width);
-    issY = map(long, -180, 180, 0, height);
+    issX = map(lat, -90, 90, 0, width,);
+    issY = map(long, 180, -180, 0, height,);
 }
 
 function draw(){
@@ -40,8 +40,10 @@ function draw(){
     textAlign(CENTER);
     text('Lat: ' + lat + ' / Long: ' + long, width/2, height/2);
 /*
-    if((lat < 0) || (long < 0)){
+    if(lat < 0){
         issW = issX * -0.5;
+    }
+    if(long < 0){
         issH = issY * -0.5;
     }
     else{
@@ -51,12 +53,7 @@ function draw(){
 */
     noFill();
     stroke(225);
-    ellipse(width/2 + -issX, height/2 + issY, 15, 15);
-
-    if(x >= windowWidth + issW){
-        y = issH;
-        x = 0;
-    }
+    ellipse(issX, issY, 15, 15);
 
 }
 
