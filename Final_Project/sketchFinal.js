@@ -289,7 +289,7 @@ function finalAnswer(){
     }
 
     if(template.html() == messages.templates[5]){
-        final.html('Could this be a ' + select.html());
+        final.html('Could this be a ' + select.html() + '?');
     }
 
     if(template.html() == messages.templates[6]){
