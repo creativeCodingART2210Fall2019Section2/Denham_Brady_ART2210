@@ -75,7 +75,7 @@ function setup(){
     select = createElement('h2', 'Type number from a category and then press the corresponding button');
     select.position(1010,180);
 
-    final = createElement('h2', 'Final Answer Dsiplayed Here');
+    final = createElement('h2', 'Final Answer Displayed Here');
     final.position(1010, 280);
 }
 
