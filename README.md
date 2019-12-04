@@ -27,7 +27,9 @@
 ## Exercise 4
 
 [Array Attempt](https://bdenha3.github.io/Denham_Brady_ART2210/2019_Classwork/Nov-6-2019/Nov6Classwork.html)
+Requires a live server
 
 ## Bonus Exercise
 
 [ISS Array Bonus](https://bdenha3.github.io/Denham_Brady_ART2210/2019_Classwork/Nov-11-2019/Nov11Classwork.html)
+Requires a live server
