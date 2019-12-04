@@ -6,8 +6,7 @@ Finally, press the "Complete the Message" button and then the completed message 
 
 This program will only work with a live server active.
 
-[DS3 Messaging System](https://bdenha3.github.io/Denham_Brady_ART2210/blob/master/Final_Project/Final_Project.html)
-'link attempt, doesn't work'
+[DS3 Messaging System](https://bdenha3.github.io/Denham_Brady_ART2210/Final_Project/Final_Project.html)
 
 ## Designer_Statement
 
