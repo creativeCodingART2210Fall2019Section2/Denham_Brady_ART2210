@@ -4,8 +4,6 @@ The way this program works is to type in the corresponding number in the first b
 Then find the category for the word you would like to show up, then type the number for that word in the box and then press the corresponding category button.
 Finally, press the "Complete the Message" button and then the completed message will appear beneath the button.
 
-This program will only work with a live server active.
-
 [DS3 Messaging System](https://bdenha3.github.io/Denham_Brady_ART2210/Final_Project/Final_Project.html)
 
 ## Designer_Statement
